@@ -1,6 +1,6 @@
 baseURL = "https://g1eny0ung.site"
 languageCode = "zh-Hans"
-defaultContentLanguage = "zh"
+defaultContentLanguage = "en"
 title = "g1eny0ung 的博客"
 theme = "dream"
 
